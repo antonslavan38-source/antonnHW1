@@ -1,0 +1,10 @@
+p {
+    background-color: aqua; color: rgb(19, 14, 42);
+}
+h1 {
+    background-color: brown; color: blue; border: 40px solid black;
+}
+em {color: chocolate; background-color: darkgreen;}
+.one {color: chartreuse;}
+.but {color: rgb(255, 0, 0);}
+.wolt {background-color: aqua; color: black;}
